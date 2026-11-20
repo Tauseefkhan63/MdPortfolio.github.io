@@ -1,0 +1,20 @@
+@font-face{font-family:reey regular;font-style:normal;font-weight:400;src:local('Reey Regular'),url(../fonts/Reey-Regular.woff) format('woff')}
+
+#Edu_Exp {
+    background: #111;
+}
+
+#Edu_Exp h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#Edu_Exp p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#Edu_Exp strong {
+    font-size: 20px;
+    font-weight: 600;
+}
